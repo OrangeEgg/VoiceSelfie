@@ -1,0 +1,58 @@
+body{
+    font-family: 'Coming Soon';
+    background-color:lightgreen;
+}
+
+.MainDiv{
+    background-color: white;
+    box-shadow: 0px 0px 150px yellow;
+}
+
+.MainDiv img{
+    height: 155.5px;
+    width: 155.5px;
+}
+
+.LabelText{
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 25px red;
+}
+
+.MarginHelp{
+    margin-top: 25px;
+    border-right: 6px solid orange;
+}
+
+#WebcamArea{
+    border: 2.5px solid black;
+    height: 300px;
+    width: 350px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+#SnapshotArea{
+    border: 2.5px solid black;
+    height: 290px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+.MarginHelp2{
+    margin-top: 25px;
+    border-left: 6px solid orange;
+}
+
+.AnsDiv{
+    background-color: lightpink;
+    height: 125px;
+    margin-top: 25px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 20px magenta;
+    margin-bottom: 30px;
+}
+
+#bulbIMG{
+    width: 85px;
+    height: 85px;
+}
